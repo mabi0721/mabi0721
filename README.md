@@ -5,7 +5,6 @@
  그리고 오늘 해볼 것은 **머시꺵이**입니다.<br>
  <br>
  
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
 ---
  <br>
